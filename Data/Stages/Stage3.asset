@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63eadf2400cf35645aa1812489ee5f75, type: 3}
+  m_Name: Stage3
+  m_EditorClassIdentifier: 
+  onStageEnd:
+    m_PersistentCalls:
+      m_Calls: []
+  _prefabs:
+  - {fileID: 2829806977087501790, guid: bb9b60826b6bd3d4ea8095705f19e8f9, type: 3}
+  _chancePrefabs: 64000000
+  _colorTypes:
+  - {fileID: 11400000, guid: 05d6914511c4e6e478e874012616d3b5, type: 2}
+  - {fileID: 11400000, guid: 0dc2d6a7b54d41d458838ea1914c4519, type: 2}
+  - {fileID: 11400000, guid: 1b6fe00da0fbb4a46b42f8448cd02ac2, type: 2}
+  - {fileID: 11400000, guid: 3aa0182159b232346ad9b5c9cc3156d7, type: 2}
+  - {fileID: 11400000, guid: 3ede55270e942a242b618368b557c93b, type: 2}
+  - {fileID: 11400000, guid: 167dd4db51d12354c9a89599a5d65ad1, type: 2}
+  - {fileID: 11400000, guid: 42ee4ccd4b276cc48af43aee6c9b844a, type: 2}
+  - {fileID: 11400000, guid: 62f521bc42205fa409cc37baae1233b2, type: 2}
+  - {fileID: 11400000, guid: d1bb0318e07d57e43b103257fbe2b8e3, type: 2}
+  _countSpawned: 0
+  _countToEnd: 5
